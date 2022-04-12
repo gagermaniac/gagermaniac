@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gagermaniac&color=006bed)
 
-<h3> :man: &nbsp;Ahmad Lazim </h3>
+<h3> Hi!, &nbsp; I'm Ahmad Lazim </h3>
 
 - &nbsp; Another it guy.
 
