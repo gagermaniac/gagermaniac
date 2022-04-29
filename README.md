@@ -43,8 +43,5 @@
 
 <h3> :earth_americas: &nbsp;Contact me </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-l-b97042aa)](Ahmad Lazim)
-[![Gmail Badge](https://img.shields.io/badge/-ahmadlazim97@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ahmadlazim97@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/gagermaniac?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
 EMAIL : ahmadlazim97@gmail.com
+LINKEDIN : <a href="https://www.linkedin.com/in/ahmad-l-b97042aa/">Linkedin</a>
