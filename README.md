@@ -3,8 +3,6 @@
 
 <h3> Hi!, &nbsp; I'm Ahmad Lazim </h3>
 
-- &nbsp; Another it guy.
-
 **Tech Stack**
 
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
